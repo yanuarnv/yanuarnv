@@ -18,7 +18,7 @@ I’ve worked with startups, agencies, and product teams — shipping apps from 
 ### 🌱 Currently Learning
 
 - Swift Concurrency (async/await)
-- Clean Architecture in Flutter
+- Unit And Integration Testing
 - Advanced animations in SwiftUI & Flutter
 - Data Structure And Algorithm
 
