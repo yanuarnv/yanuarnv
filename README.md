@@ -1,11 +1,3 @@
-# 👋 Hi, I'm Yanuar Nauval Ardian
-
-**Mobile Developer | Flutter & iOS (SwiftUI, UIKit)**  
-📍 Based in Indonesia  
-📬 yanuarnauval.work@gmail.com | [LinkedIn](https://linkedin.com/in/yanuar-nauval-ardian) | [Portfolio](https://drive.google.com/file/d/10pn6ZFzCDjyLrAVRNzwGRDI2s1-00hKS/view?usp=drive_link)
-
----
-
 ### 🚀 About Me
 
 I'm a passionate mobile developer with **3+ years of experience** building beautiful, high-performance mobile apps.  
